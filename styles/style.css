@@ -22,12 +22,12 @@ footer {
     padding: 10px;
     text-align: center;
     position: fixed;
-    bottom: -10;
+    bottom: 10px;
     width: 100%;
 }
 
 footer p {
-    margin: -10px;
+    margin: 100px;
 }
 
 ul {
